@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "libglfw.pdb"
-  "libglfw.so"
-  "libglfw.so.3.2"
-  "libglfw.so.3"
+  "libglfw.3.2.dylib"
+  "libglfw.dylib"
+  "libglfw.3.dylib"
 )
 
 # Per-language clean rules from dependency scanning.

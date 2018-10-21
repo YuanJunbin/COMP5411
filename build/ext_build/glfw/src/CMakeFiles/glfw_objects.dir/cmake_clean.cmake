@@ -5,15 +5,13 @@ file(REMOVE_RECURSE
   "CMakeFiles/glfw_objects.dir/monitor.c.o"
   "CMakeFiles/glfw_objects.dir/vulkan.c.o"
   "CMakeFiles/glfw_objects.dir/window.c.o"
-  "CMakeFiles/glfw_objects.dir/x11_init.c.o"
-  "CMakeFiles/glfw_objects.dir/x11_monitor.c.o"
-  "CMakeFiles/glfw_objects.dir/x11_window.c.o"
-  "CMakeFiles/glfw_objects.dir/xkb_unicode.c.o"
-  "CMakeFiles/glfw_objects.dir/linux_joystick.c.o"
-  "CMakeFiles/glfw_objects.dir/posix_time.c.o"
+  "CMakeFiles/glfw_objects.dir/cocoa_init.m.o"
+  "CMakeFiles/glfw_objects.dir/cocoa_joystick.m.o"
+  "CMakeFiles/glfw_objects.dir/cocoa_monitor.m.o"
+  "CMakeFiles/glfw_objects.dir/cocoa_window.m.o"
+  "CMakeFiles/glfw_objects.dir/cocoa_time.c.o"
   "CMakeFiles/glfw_objects.dir/posix_tls.c.o"
-  "CMakeFiles/glfw_objects.dir/glx_context.c.o"
-  "CMakeFiles/glfw_objects.dir/egl_context.c.o"
+  "CMakeFiles/glfw_objects.dir/nsgl_context.m.o"
 )
 
 # Per-language clean rules from dependency scanning.

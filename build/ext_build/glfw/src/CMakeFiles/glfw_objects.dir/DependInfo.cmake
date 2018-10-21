@@ -4,23 +4,21 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/kinesis/MeshViewer/ext/glfw/src/context.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/context.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/egl_context.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/egl_context.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/glx_context.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/glx_context.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/init.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/init.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/input.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/input.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/linux_joystick.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/linux_joystick.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/monitor.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/monitor.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/posix_time.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/posix_time.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/posix_tls.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/posix_tls.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/vulkan.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/vulkan.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/window.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/window.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/x11_init.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/x11_init.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/x11_monitor.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/x11_monitor.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/x11_window.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/x11_window.c.o"
-  "/home/kinesis/MeshViewer/ext/glfw/src/xkb_unicode.c" "/home/kinesis/MeshViewer/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/xkb_unicode.c.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/cocoa_init.m" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_init.m.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/cocoa_joystick.m" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_joystick.m.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/cocoa_monitor.m" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_monitor.m.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/cocoa_time.c" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_time.c.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/cocoa_window.m" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/cocoa_window.m.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/context.c" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/context.c.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/init.c" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/init.c.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/input.c" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/input.c.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/monitor.c" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/monitor.c.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/nsgl_context.m" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/nsgl_context.m.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/posix_tls.c" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/posix_tls.c.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/vulkan.c" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/vulkan.c.o"
+  "/Users/ereve/Documents/COMP5411/ext/glfw/src/window.c" "/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/CMakeFiles/glfw_objects.dir/window.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "Clang")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_C

@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
   "libnanogui.pdb"
-  "libnanogui.so"
+  "libnanogui.dylib"
 )
 
 # Per-language clean rules from dependency scanning.

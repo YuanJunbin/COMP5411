@@ -5,9 +5,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/kinesis/MeshViewer/ext/nanovg/src/nanovg.c" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanovg/src/nanovg.c.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanovg/src/nanovg.c" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanovg/src/nanovg.c.o"
   )
-set(CMAKE_C_COMPILER_ID "GNU")
+set(CMAKE_C_COMPILER_ID "Clang")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_C
@@ -30,37 +30,38 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
   "../ext/coro"
   )
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/kinesis/MeshViewer/ext/nanogui/button.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/button.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/checkbox.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/checkbox.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/colorpicker.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/colorpicker.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/colorwheel.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/colorwheel.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/combobox.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/combobox.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/common.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/common.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/glcanvas.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/glcanvas.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/glutil.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/glutil.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/graph.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/graph.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/imagepanel.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/imagepanel.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/imageview.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/imageview.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/label.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/label.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/layout.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/layout.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/messagedialog.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/messagedialog.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/popup.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/popup.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/popupbutton.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/popupbutton.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/progressbar.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/progressbar.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/screen.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/screen.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/serializer.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/serializer.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/slider.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/slider.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/stackedwidget.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/stackedwidget.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/tabheader.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/tabheader.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/tabwidget.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/tabwidget.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/textbox.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/textbox.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/theme.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/theme.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/vscrollpanel.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/vscrollpanel.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/widget.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/widget.cpp.o"
-  "/home/kinesis/MeshViewer/ext/nanogui/window.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/window.cpp.o"
-  "/home/kinesis/MeshViewer/build/nanogui_resources.cpp" "/home/kinesis/MeshViewer/build/CMakeFiles/nanogui-obj.dir/nanogui_resources.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/button.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/button.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/checkbox.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/checkbox.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/colorpicker.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/colorpicker.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/colorwheel.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/colorwheel.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/combobox.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/combobox.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/common.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/common.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/darwin.mm" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/darwin.mm.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/glcanvas.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/glcanvas.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/glutil.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/glutil.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/graph.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/graph.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/imagepanel.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/imagepanel.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/imageview.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/imageview.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/label.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/label.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/layout.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/layout.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/messagedialog.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/messagedialog.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/popup.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/popup.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/popupbutton.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/popupbutton.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/progressbar.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/progressbar.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/screen.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/screen.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/serializer.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/serializer.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/slider.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/slider.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/stackedwidget.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/stackedwidget.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/tabheader.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/tabheader.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/tabwidget.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/tabwidget.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/textbox.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/textbox.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/theme.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/theme.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/vscrollpanel.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/vscrollpanel.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/widget.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/widget.cpp.o"
+  "/Users/ereve/Documents/COMP5411/ext/nanogui/window.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/ext/nanogui/window.cpp.o"
+  "/Users/ereve/Documents/COMP5411/build/nanogui_resources.cpp" "/Users/ereve/Documents/COMP5411/build/CMakeFiles/nanogui-obj.dir/nanogui_resources.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # Preprocessor definitions for this target.
 set(CMAKE_TARGET_DEFINITIONS_CXX
@@ -85,7 +86,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Pairs of files generated by the same build rule.
 set(CMAKE_MULTIPLE_OUTPUT_PAIRS
-  "/home/kinesis/MeshViewer/build/nanogui_resources.h" "/home/kinesis/MeshViewer/build/nanogui_resources.cpp"
+  "/Users/ereve/Documents/COMP5411/build/nanogui_resources.h" "/Users/ereve/Documents/COMP5411/build/nanogui_resources.cpp"
   )
 
 

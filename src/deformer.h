@@ -3,7 +3,7 @@
 #include <Eigen/Dense>
 #include <Eigen/Sparse>
 #include "mesh.h"
-
+using namespace Eigen;
 // Deform mesh using Laplacian coordinates
 class Deformer {
 public:
@@ -22,7 +22,9 @@ private:
 	// Build left hand side matrix and pre-factorize it
 	void buildSystemMat();
 	/*====== Programming Assignment 2 ======*/
-
+	SparseMatrix<double> A; // Ax = b where x are positions
+	SparseMatrix<double> AT;
+	VectorXd bx0, by0, bz0; // initial value of b
 	void clear();
 
 	Mesh* mMesh;

@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "nanogui_resources.cpp"
   "nanogui_resources.h"
   "CMakeFiles/nanogui-obj.dir/ext/nanovg/src/nanovg.c.o"
+  "CMakeFiles/nanogui-obj.dir/ext/nanogui/darwin.mm.o"
   "CMakeFiles/nanogui-obj.dir/nanogui_resources.cpp.o"
   "CMakeFiles/nanogui-obj.dir/ext/nanogui/glutil.cpp.o"
   "CMakeFiles/nanogui-obj.dir/ext/nanogui/common.cpp.o"

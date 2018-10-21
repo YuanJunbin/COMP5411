@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/kinesis/MeshViewer/ext/nanovg/src/fontstash.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/fontstash.h
 ft2build.h
 -
 math.h
 -
 stb_truetype.h
-/home/kinesis/MeshViewer/ext/nanovg/src/stb_truetype.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/stb_truetype.h
 
-/home/kinesis/MeshViewer/ext/nanovg/src/nanovg.c
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/nanovg.c
 stdlib.h
 -
 stdio.h
@@ -24,17 +24,17 @@ math.h
 memory.h
 -
 nanovg.h
-/home/kinesis/MeshViewer/ext/nanovg/src/nanovg.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/nanovg.h
 fontstash.h
-/home/kinesis/MeshViewer/ext/nanovg/src/fontstash.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/fontstash.h
 stb_image.h
-/home/kinesis/MeshViewer/ext/nanovg/src/stb_image.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/stb_image.h
 
-/home/kinesis/MeshViewer/ext/nanovg/src/nanovg.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/nanovg.h
 
-/home/kinesis/MeshViewer/ext/nanovg/src/stb_image.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/stb_image.h
 stb_image.h
-/home/kinesis/MeshViewer/ext/nanovg/src/stb_image.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/stb_image.h
 stdio.h
 -
 stdarg.h
@@ -60,13 +60,13 @@ intrin.h
 arm_neon.h
 -
 
-/home/kinesis/MeshViewer/ext/nanovg/src/stb_truetype.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/stb_truetype.h
 stb_truetype.h
-/home/kinesis/MeshViewer/ext/nanovg/src/stb_truetype.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/stb_truetype.h
 stdio.h
 -
 stb_truetype.h
-/home/kinesis/MeshViewer/ext/nanovg/src/stb_truetype.h
+/Users/ereve/Documents/COMP5411/ext/nanovg/src/stb_truetype.h
 math.h
 -
 math.h

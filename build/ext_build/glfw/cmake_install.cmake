@@ -1,4 +1,4 @@
-# Install script for directory: /home/kinesis/MeshViewer/ext/glfw
+# Install script for directory: /Users/ereve/Documents/COMP5411/ext/glfw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -27,14 +27,14 @@ if(NOT CMAKE_INSTALL_COMPONENT)
   endif()
 endif()
 
-# Install shared libraries without execute permission?
-if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
-  set(CMAKE_INSTALL_SO_NO_EXE "1")
+# Is this installation the result of a crosscompile?
+if(NOT DEFINED CMAKE_CROSSCOMPILING)
+  set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/kinesis/MeshViewer/build/ext_build/glfw/src/cmake_install.cmake")
+  include("/Users/ereve/Documents/COMP5411/build/ext_build/glfw/src/cmake_install.cmake")
 
 endif()
 
